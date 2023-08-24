@@ -1,0 +1,28 @@
+body{
+    background-color: rgb(6, 33, 38);
+    color: rgb(226, 237, 234);
+    font-family: "Lucida Console", "Courier New", monospace;
+}
+
+.tittle{
+    border: 3px;
+    border-color: rgb(156, 13, 56);
+    border-style: dashed;
+    margin-bottom: 5px;
+    text-align: center;
+}
+
+.list{
+    border: 2px;
+    border-color: rgb(156, 13, 56);
+    border-style: inset;
+    text-align: left;
+    width: fit-content;
+}
+
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
